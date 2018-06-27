@@ -1,0 +1,22 @@
+{
+  "name": "typeorm-audit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivmarcos/typeorm-audit.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ivmarcos/typeorm-audit/issues"
+  },
+  "homepage": "https://github.com/ivmarcos/typeorm-audit#readme",
+  "devDependencies": {
+    "typeorm": "^0.2.7"
+  }
+}
